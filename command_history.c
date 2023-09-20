@@ -1,5 +1,3 @@
-history.c code
-
 #include "shell.h"
 
 /**
